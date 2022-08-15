@@ -1,0 +1,6 @@
+#comment 
+*.db
+*.log
+
+**/target
+**/bin
